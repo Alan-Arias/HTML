@@ -1,0 +1,17 @@
+#RegVenta{
+    box-sizing: border-box;
+    width: 25%; /* Divide el contenedor en 4 columnas */
+    float: left; /* Permite que los elementos floten a la izquierda */
+    background-color: rgb(55, 85, 67);
+}
+#tabla-productos{
+    box-sizing: border-box;
+    background-color: rgb(93, 88, 116);
+}
+#tabla-det-venta{
+    box-sizing: border-box;
+    background-color: rgb(80, 56, 49);
+}
+body{
+    background-color:rgb(199, 199, 224);
+}

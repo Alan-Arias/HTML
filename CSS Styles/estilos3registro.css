@@ -1,0 +1,93 @@
+.registro {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 26px 0px rgba(0,0,0,0.2);
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 0.5cm;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #ad2525;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    text-align: center;
+    font-size: 0.7cm;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color:#8376f7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 0.5cm;
+  }
+  
+  input[type="text"], input[type="email"], input[type="password"] {
+    padding: 13px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 10px;
+    width: 95%;   
+  }
+  
+  button[type="submit"] {
+    background-color: #110b47;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3f8dcc;
+  }
+
+
+
+
+
+  input[type="submit"] {
+    background-color: #110b47;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #3f8dcc;
+  }
+
+  .alert-error{
+    background-color: rgb(202, 71, 71);
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+  }
+  .cont-p {
+    background-color: #008558;
+  }
+  .cont-p p{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    text-align: center;
+    font-style: italic;
+  }
